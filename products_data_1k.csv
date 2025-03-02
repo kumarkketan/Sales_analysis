@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Price,Stock_Available,Supplier
+201,Product_201,Clothing,1466,N/A,Supplier_A
+202,Product_202,Office,4102,N/A,Supplier_A
+203,Product_203,Clothing,$530,No,Supplier_A
+204,Product_204,Electronics,$943,No,Supplier_A
+205,Product_205,Office,4050,Out of Stock,Supplier_B
+206,Product_206,Clothing,$3989,yes,Supplier_B
+207,Product_207,Accessories,$3627,No,Supplier_A
+208,Product_208,Electronics,$1854,Yes,Supplier_D
+209,Product_209,Furniture,4302$,yes,Supplier_C
+210,Product_210,Electronics,$291,Out of Stock,Supplier_D
+211,Product_211,Electronics,4305$,Yes,Supplier_D
+212,Product_212,Accessories,$3699,Out of Stock,Supplier_B
+213,Product_213,Clothing,319,yes,Supplier_C
+214,Product_214,Furniture,3859,N/A,Supplier_C
+215,Product_215,Accessories,315$,No,Supplier_A
+216,Product_216,Furniture,4096$,Out of Stock,Supplier_A
+217,Product_217,Clothing,4875,Out of Stock,Supplier_C
+218,Product_218,Office,$3270,N/A,Supplier_D
+219,Product_219,Office,3883,Available,Supplier_D
+220,Product_220,Accessories,3832,Yes,Supplier_C
+221,Product_221,Furniture,3286$,yes,Supplier_D
+222,Product_222,Furniture,3521,Available,Supplier_A
+223,Product_223,Accessories,2916$,N/A,Supplier_C
+224,Product_224,Electronics,$3442,Out of Stock,Supplier_C
+225,Product_225,Accessories,4657,yes,Supplier_C
+226,Product_226,Office,4502,yes,Supplier_B
+227,Product_227,Electronics,3244,N/A,Supplier_B
+228,Product_228,Accessories,1014,N/A,Supplier_A
+229,Product_229,Electronics,3698$,Out of Stock,Supplier_C
+230,Product_230,Clothing,1811$,Out of Stock,Supplier_B
+231,Product_231,Clothing,3676$,Available,Supplier_C
+232,Product_232,Office,4715$,Out of Stock,Supplier_B
+233,Product_233,Clothing,2033$,N/A,Supplier_C
+234,Product_234,Furniture,1639,No,Supplier_D
+235,Product_235,Office,$3375,N/A,Supplier_A
+236,Product_236,Office,$3789,N/A,Supplier_B
+237,Product_237,Office,$3321,yes,Supplier_D
+238,Product_238,Electronics,$2456,N/A,Supplier_D
+239,Product_239,Furniture,$4178,Available,Supplier_B
+240,Product_240,Office,$2877,Available,Supplier_A
+241,Product_241,Electronics,4622,Available,Supplier_B
+242,Product_242,Clothing,1749$,Available,Supplier_B
+243,Product_243,Clothing,1678$,Yes,Supplier_A
+244,Product_244,Accessories,$3248,Available,Supplier_D
+245,Product_245,Accessories,1493,No,Supplier_C
+246,Product_246,Accessories,$3011,Available,Supplier_C
+247,Product_247,Clothing,1386$,yes,Supplier_D
+248,Product_248,Clothing,1411$,Available,Supplier_D
+249,Product_249,Office,3141$,N/A,Supplier_C
+250,Product_250,Furniture,1970$,N/A,Supplier_B
+251,Product_251,Furniture,1070,yes,Supplier_A
+252,Product_252,Electronics,3597,yes,Supplier_C
+253,Product_253,Office,$4319,yes,Supplier_A
+254,Product_254,Electronics,$4979,Yes,Supplier_B
+255,Product_255,Electronics,3353,N/A,Supplier_A
+256,Product_256,Clothing,$2086,N/A,Supplier_B
+257,Product_257,Furniture,1591,Yes,Supplier_D
+258,Product_258,Clothing,$2314,N/A,Supplier_C
+259,Product_259,Clothing,311$,N/A,Supplier_D
+260,Product_260,Furniture,4186$,N/A,Supplier_C
+261,Product_261,Accessories,2933,Available,Supplier_B
+262,Product_262,Accessories,4135$,Available,Supplier_C
+263,Product_263,Furniture,612,Yes,Supplier_C
+264,Product_264,Office,864,N/A,Supplier_C
+265,Product_265,Furniture,1520$,N/A,Supplier_B
+266,Product_266,Electronics,3789,Out of Stock,Supplier_C
+267,Product_267,Clothing,858,Yes,Supplier_A
+268,Product_268,Office,$2130,N/A,Supplier_C
+269,Product_269,Clothing,2464,N/A,Supplier_B
+270,Product_270,Accessories,798,Available,Supplier_C
+271,Product_271,Electronics,257$,yes,Supplier_D
+272,Product_272,Accessories,1189,Out of Stock,Supplier_B
+273,Product_273,Clothing,$2109,Out of Stock,Supplier_D
+274,Product_274,Accessories,3698,Yes,Supplier_D
+275,Product_275,Office,4563,No,Supplier_B
+276,Product_276,Office,2530,Yes,Supplier_A
+277,Product_277,Electronics,$4921,N/A,Supplier_A
+278,Product_278,Accessories,$3080,Available,Supplier_D
+279,Product_279,Accessories,$3241,Yes,Supplier_C
+280,Product_280,Electronics,4096,Out of Stock,Supplier_B
+281,Product_281,Accessories,2938,No,Supplier_C
+282,Product_282,Electronics,$351,N/A,Supplier_C
+283,Product_283,Office,1531,No,Supplier_B
+284,Product_284,Electronics,$2459,N/A,Supplier_D
+285,Product_285,Accessories,3004$,yes,Supplier_A
+286,Product_286,Office,$1326,Available,Supplier_C
+287,Product_287,Office,3821$,Out of Stock,Supplier_B
+288,Product_288,Furniture,408$,N/A,Supplier_A
+289,Product_289,Accessories,2291,Yes,Supplier_C
+290,Product_290,Clothing,4027,No,Supplier_D
+291,Product_291,Office,$505,Yes,Supplier_B
+292,Product_292,Electronics,$842,Available,Supplier_A
+293,Product_293,Accessories,206,No,Supplier_D
+294,Product_294,Furniture,787,No,Supplier_C
+295,Product_295,Accessories,1954$,No,Supplier_A
+296,Product_296,Electronics,$2697,yes,Supplier_C
+297,Product_297,Furniture,4690,Yes,Supplier_B
+298,Product_298,Furniture,3033$,N/A,Supplier_B
+299,Product_299,Clothing,$4003,Out of Stock,Supplier_C
+300,Product_300,Furniture,$1775,Out of Stock,Supplier_B
+301,Product_301,Office,2009,No,Supplier_C
+302,Product_302,Office,2256$,Out of Stock,Supplier_C
+303,Product_303,Office,$1640,Out of Stock,Supplier_B
+304,Product_304,Accessories,422$,yes,Supplier_C
+305,Product_305,Electronics,$3823,Yes,Supplier_D
+306,Product_306,Clothing,4106$,Yes,Supplier_D
+307,Product_307,Office,$3366,No,Supplier_B
+308,Product_308,Office,909,yes,Supplier_B
+309,Product_309,Furniture,$4160,No,Supplier_C
+310,Product_310,Accessories,528$,yes,Supplier_C
+311,Product_311,Office,$3216,Yes,Supplier_C
+312,Product_312,Clothing,3181,No,Supplier_B
+313,Product_313,Furniture,$1283,Available,Supplier_D
+314,Product_314,Office,2720$,Available,Supplier_C
+315,Product_315,Office,$2966,Available,Supplier_B
+316,Product_316,Accessories,1842,No,Supplier_A
+317,Product_317,Office,1306$,No,Supplier_C
+318,Product_318,Office,2732,N/A,Supplier_C
+319,Product_319,Electronics,2799,Out of Stock,Supplier_B
+320,Product_320,Furniture,171$,Out of Stock,Supplier_C
+321,Product_321,Accessories,4955,N/A,Supplier_C
+322,Product_322,Furniture,2470,Out of Stock,Supplier_A
+323,Product_323,Office,3205,Out of Stock,Supplier_A
+324,Product_324,Office,1584,Yes,Supplier_A
+325,Product_325,Electronics,576$,Available,Supplier_D
+326,Product_326,Electronics,848$,yes,Supplier_D
+327,Product_327,Accessories,4007$,Available,Supplier_A
+328,Product_328,Office,2184,Yes,Supplier_C
+329,Product_329,Electronics,2755$,yes,Supplier_A
+330,Product_330,Furniture,1761,Yes,Supplier_C
+331,Product_331,Electronics,$2563,Available,Supplier_B
+332,Product_332,Electronics,$816,No,Supplier_C
+333,Product_333,Clothing,$2480,Out of Stock,Supplier_D
+334,Product_334,Electronics,$1182,Yes,Supplier_C
+335,Product_335,Office,2475,yes,Supplier_D
+336,Product_336,Electronics,$1967,Available,Supplier_A
+337,Product_337,Office,2769,Out of Stock,Supplier_B
+338,Product_338,Clothing,1963$,yes,Supplier_A
+339,Product_339,Accessories,$3455,yes,Supplier_C
+340,Product_340,Furniture,$958,Out of Stock,Supplier_C
+341,Product_341,Clothing,$2221,yes,Supplier_B
+342,Product_342,Furniture,$1745,N/A,Supplier_A
+343,Product_343,Clothing,801,Available,Supplier_D
+344,Product_344,Clothing,$384,yes,Supplier_C
+345,Product_345,Electronics,119$,Yes,Supplier_B
+346,Product_346,Electronics,$2488,N/A,Supplier_D
+347,Product_347,Accessories,$1188,Out of Stock,Supplier_D
+348,Product_348,Office,$1894,Available,Supplier_B
+349,Product_349,Clothing,1950,N/A,Supplier_C
+350,Product_350,Furniture,$956,Yes,Supplier_D
+351,Product_351,Clothing,3999,No,Supplier_A
+352,Product_352,Accessories,$3370,N/A,Supplier_B
+353,Product_353,Office,4590,Out of Stock,Supplier_A
+354,Product_354,Electronics,$1651,Out of Stock,Supplier_C
+355,Product_355,Office,1169,N/A,Supplier_C
+356,Product_356,Clothing,$3696,Available,Supplier_D
+357,Product_357,Accessories,$2747,Yes,Supplier_A
+358,Product_358,Electronics,2847,No,Supplier_B
+359,Product_359,Electronics,$1028,N/A,Supplier_C
+360,Product_360,Accessories,1949,Yes,Supplier_A
+361,Product_361,Clothing,$4569,N/A,Supplier_D
+362,Product_362,Furniture,2014$,Out of Stock,Supplier_D
+363,Product_363,Furniture,2577,Available,Supplier_A
+364,Product_364,Office,3670,Out of Stock,Supplier_B
+365,Product_365,Electronics,$2737,N/A,Supplier_B
+366,Product_366,Furniture,2545$,yes,Supplier_A
+367,Product_367,Furniture,1476$,yes,Supplier_C
+368,Product_368,Accessories,$1193,Yes,Supplier_B
+369,Product_369,Office,2660$,Out of Stock,Supplier_C
+370,Product_370,Accessories,4093$,Yes,Supplier_C
+371,Product_371,Clothing,2397$,No,Supplier_D
+372,Product_372,Electronics,2597,Available,Supplier_C
+373,Product_373,Office,4462$,Out of Stock,Supplier_A
+374,Product_374,Furniture,$2180,yes,Supplier_B
+375,Product_375,Electronics,2725,N/A,Supplier_C
+376,Product_376,Clothing,1653,N/A,Supplier_D
+377,Product_377,Clothing,4281$,Out of Stock,Supplier_B
+378,Product_378,Clothing,648$,yes,Supplier_A
+379,Product_379,Accessories,$1320,yes,Supplier_B
+380,Product_380,Electronics,3443$,Yes,Supplier_D
+381,Product_381,Clothing,$597,N/A,Supplier_A
+382,Product_382,Furniture,4209,N/A,Supplier_D
+383,Product_383,Accessories,$4732,No,Supplier_B
+384,Product_384,Office,448,Available,Supplier_C
+385,Product_385,Office,4567,Yes,Supplier_B
+386,Product_386,Office,$3635,Out of Stock,Supplier_A
+387,Product_387,Clothing,2621$,Available,Supplier_D
+388,Product_388,Office,$191,yes,Supplier_D
+389,Product_389,Accessories,375,yes,Supplier_D
+390,Product_390,Accessories,$4736,Yes,Supplier_A
+391,Product_391,Accessories,$2207,Yes,Supplier_D
+392,Product_392,Electronics,3846$,yes,Supplier_C
+393,Product_393,Accessories,$1725,Available,Supplier_D
+394,Product_394,Furniture,408,Yes,Supplier_B
+395,Product_395,Clothing,1496$,Yes,Supplier_B
+396,Product_396,Furniture,3599,Yes,Supplier_B
+397,Product_397,Clothing,2785,N/A,Supplier_A
+398,Product_398,Electronics,$4962,Yes,Supplier_A
+399,Product_399,Electronics,$2960,Out of Stock,Supplier_B
+400,Product_400,Office,4833$,yes,Supplier_D
+401,Product_401,Electronics,1928,Out of Stock,Supplier_B
+402,Product_402,Furniture,1807,No,Supplier_B
+403,Product_403,Office,4607$,yes,Supplier_C
+404,Product_404,Office,1395$,Yes,Supplier_D
+405,Product_405,Office,$1517,No,Supplier_C
+406,Product_406,Furniture,235$,Available,Supplier_D
+407,Product_407,Clothing,2084$,yes,Supplier_A
+408,Product_408,Office,1314$,Available,Supplier_B
+409,Product_409,Office,3311$,No,Supplier_C
+410,Product_410,Furniture,$3796,yes,Supplier_C
+411,Product_411,Clothing,3409$,Yes,Supplier_C
+412,Product_412,Accessories,4611$,Available,Supplier_D
+413,Product_413,Accessories,4728,No,Supplier_D
+414,Product_414,Furniture,2493$,Available,Supplier_D
+415,Product_415,Furniture,$1180,Out of Stock,Supplier_D
+416,Product_416,Office,420$,Out of Stock,Supplier_D
+417,Product_417,Clothing,613$,No,Supplier_D
+418,Product_418,Accessories,$2773,Yes,Supplier_A
+419,Product_419,Accessories,$821,N/A,Supplier_B
+420,Product_420,Accessories,1080,Available,Supplier_D
+421,Product_421,Accessories,2943,Out of Stock,Supplier_C
+422,Product_422,Accessories,$1453,yes,Supplier_D
+423,Product_423,Accessories,153$,N/A,Supplier_C
+424,Product_424,Clothing,3693,Available,Supplier_C
+425,Product_425,Office,4793$,Out of Stock,Supplier_C
+426,Product_426,Accessories,953$,Available,Supplier_A
+427,Product_427,Electronics,2593$,Available,Supplier_B
+428,Product_428,Furniture,$1871,N/A,Supplier_A
+429,Product_429,Clothing,1615$,yes,Supplier_D
+430,Product_430,Accessories,$1227,Yes,Supplier_A
+431,Product_431,Accessories,$1990,Out of Stock,Supplier_C
+432,Product_432,Accessories,4375$,yes,Supplier_A
+433,Product_433,Furniture,2041$,N/A,Supplier_C
+434,Product_434,Office,3006,yes,Supplier_B
+435,Product_435,Clothing,1291,yes,Supplier_D
+436,Product_436,Furniture,2642,Available,Supplier_A
+437,Product_437,Furniture,1968,Yes,Supplier_D
+438,Product_438,Clothing,3143,yes,Supplier_D
+439,Product_439,Accessories,$2758,Yes,Supplier_B
+440,Product_440,Furniture,$634,yes,Supplier_B
+441,Product_441,Accessories,4411$,Available,Supplier_B
+442,Product_442,Office,615,Out of Stock,Supplier_C
+443,Product_443,Electronics,2428$,Yes,Supplier_B
+444,Product_444,Electronics,$2329,No,Supplier_C
+445,Product_445,Clothing,2454$,Out of Stock,Supplier_D
+446,Product_446,Office,776,N/A,Supplier_D
+447,Product_447,Electronics,$721,Out of Stock,Supplier_C
+448,Product_448,Furniture,831,Out of Stock,Supplier_D
+449,Product_449,Furniture,2356,Out of Stock,Supplier_D
+450,Product_450,Office,$3097,yes,Supplier_A
+451,Product_451,Accessories,$1329,No,Supplier_B
+452,Product_452,Electronics,937$,No,Supplier_C
+453,Product_453,Clothing,1417$,Out of Stock,Supplier_D
+454,Product_454,Office,3656,Out of Stock,Supplier_C
+455,Product_455,Accessories,3708$,N/A,Supplier_A
+456,Product_456,Furniture,4050,Out of Stock,Supplier_B
+457,Product_457,Office,$4083,Yes,Supplier_A
+458,Product_458,Furniture,3033,Yes,Supplier_D
+459,Product_459,Accessories,1307,yes,Supplier_B
+460,Product_460,Accessories,1581,yes,Supplier_B
+461,Product_461,Accessories,2013,Available,Supplier_B
+462,Product_462,Office,$1716,Out of Stock,Supplier_A
+463,Product_463,Furniture,$4817,N/A,Supplier_A
+464,Product_464,Electronics,4748$,No,Supplier_A
+465,Product_465,Furniture,2294,Out of Stock,Supplier_B
+466,Product_466,Clothing,$2214,Yes,Supplier_A
+467,Product_467,Furniture,2060$,No,Supplier_C
+468,Product_468,Accessories,$1448,No,Supplier_C
+469,Product_469,Electronics,$4559,Available,Supplier_B
+470,Product_470,Clothing,$2588,No,Supplier_A
+471,Product_471,Clothing,1381,Out of Stock,Supplier_B
+472,Product_472,Accessories,3359$,Out of Stock,Supplier_A
+473,Product_473,Office,4372$,yes,Supplier_B
+474,Product_474,Accessories,3955,No,Supplier_B
+475,Product_475,Furniture,882$,N/A,Supplier_D
+476,Product_476,Office,$2911,Available,Supplier_A
+477,Product_477,Accessories,$598,Out of Stock,Supplier_D
+478,Product_478,Accessories,$3293,No,Supplier_A
+479,Product_479,Clothing,4284$,Yes,Supplier_C
+480,Product_480,Clothing,$849,yes,Supplier_C
+481,Product_481,Accessories,$910,Yes,Supplier_D
+482,Product_482,Clothing,$1851,Available,Supplier_B
+483,Product_483,Clothing,2862$,Available,Supplier_B
+484,Product_484,Clothing,$1292,Available,Supplier_A
+485,Product_485,Accessories,$1937,Available,Supplier_A
+486,Product_486,Electronics,$4476,Yes,Supplier_A
+487,Product_487,Clothing,791,yes,Supplier_D
+488,Product_488,Clothing,$1719,N/A,Supplier_C
+489,Product_489,Clothing,4865$,yes,Supplier_D
+490,Product_490,Accessories,2465,Out of Stock,Supplier_A
+491,Product_491,Electronics,1803,No,Supplier_A
+492,Product_492,Electronics,4533,Out of Stock,Supplier_B
+493,Product_493,Office,$1267,Out of Stock,Supplier_B
+494,Product_494,Clothing,$152,Available,Supplier_B
+495,Product_495,Accessories,1807$,No,Supplier_D
+496,Product_496,Furniture,2855,Out of Stock,Supplier_D
+497,Product_497,Electronics,$4576,No,Supplier_C
+498,Product_498,Furniture,$2386,Yes,Supplier_D
+499,Product_499,Accessories,3734,Available,Supplier_B
+500,Product_500,Electronics,1339$,No,Supplier_B
+501,Product_501,Office,$4728,Out of Stock,Supplier_D
+502,Product_502,Furniture,3418,Out of Stock,Supplier_D
+503,Product_503,Clothing,1226,Yes,Supplier_B
+504,Product_504,Furniture,$2294,N/A,Supplier_B
+505,Product_505,Clothing,3873$,No,Supplier_A
+506,Product_506,Electronics,4317$,No,Supplier_C
+507,Product_507,Clothing,$2150,Yes,Supplier_A
+508,Product_508,Accessories,1981$,Available,Supplier_A
+509,Product_509,Clothing,863$,yes,Supplier_C
+510,Product_510,Clothing,$3266,Out of Stock,Supplier_C
+511,Product_511,Office,3359,Yes,Supplier_D
+512,Product_512,Office,3500,Out of Stock,Supplier_C
+513,Product_513,Clothing,3314$,Yes,Supplier_C
+514,Product_514,Office,$2805,No,Supplier_A
+515,Product_515,Electronics,3080,Available,Supplier_B
+516,Product_516,Furniture,334,Available,Supplier_D
+517,Product_517,Accessories,458,Out of Stock,Supplier_D
+518,Product_518,Office,$326,N/A,Supplier_D
+519,Product_519,Furniture,$2960,Out of Stock,Supplier_D
+520,Product_520,Clothing,1534$,Out of Stock,Supplier_C
+521,Product_521,Clothing,2277,No,Supplier_B
+522,Product_522,Furniture,$4597,yes,Supplier_C
+523,Product_523,Office,3769,Available,Supplier_D
+524,Product_524,Office,1282,yes,Supplier_D
+525,Product_525,Accessories,772,No,Supplier_B
+526,Product_526,Furniture,$2681,Out of Stock,Supplier_C
+527,Product_527,Clothing,2097$,yes,Supplier_C
+528,Product_528,Electronics,1775$,Available,Supplier_A
+529,Product_529,Furniture,4619,Available,Supplier_A
+530,Product_530,Clothing,$4129,Out of Stock,Supplier_D
+531,Product_531,Furniture,500,Yes,Supplier_C
+532,Product_532,Accessories,2068,N/A,Supplier_C
+533,Product_533,Clothing,2647$,N/A,Supplier_A
+534,Product_534,Accessories,314$,N/A,Supplier_B
+535,Product_535,Accessories,3992$,Yes,Supplier_D
+536,Product_536,Clothing,691$,Out of Stock,Supplier_B
+537,Product_537,Clothing,$4789,Available,Supplier_A
+538,Product_538,Electronics,1663,Available,Supplier_C
+539,Product_539,Clothing,$4512,Available,Supplier_A
+540,Product_540,Clothing,$2324,Yes,Supplier_C
+541,Product_541,Electronics,$2320,Available,Supplier_B
+542,Product_542,Clothing,$3513,No,Supplier_A
+543,Product_543,Electronics,4199,Yes,Supplier_B
+544,Product_544,Clothing,$2040,yes,Supplier_B
+545,Product_545,Accessories,$4853,Out of Stock,Supplier_D
+546,Product_546,Furniture,$3266,yes,Supplier_A
+547,Product_547,Office,$2454,Yes,Supplier_C
+548,Product_548,Furniture,548$,N/A,Supplier_A
+549,Product_549,Office,4449$,N/A,Supplier_D
+550,Product_550,Office,3665$,Yes,Supplier_C
+551,Product_551,Furniture,$3720,N/A,Supplier_C
+552,Product_552,Office,1412,Available,Supplier_A
+553,Product_553,Electronics,3775$,Available,Supplier_C
+554,Product_554,Clothing,$4956,yes,Supplier_C
+555,Product_555,Electronics,3520$,Out of Stock,Supplier_D
+556,Product_556,Electronics,$1574,Yes,Supplier_B
+557,Product_557,Clothing,$3931,Available,Supplier_A
+558,Product_558,Accessories,844$,Out of Stock,Supplier_C
+559,Product_559,Accessories,1187$,N/A,Supplier_C
+560,Product_560,Clothing,$101,N/A,Supplier_B
+561,Product_561,Office,3018$,No,Supplier_D
+562,Product_562,Accessories,3579,No,Supplier_D
+563,Product_563,Electronics,$1765,No,Supplier_A
+564,Product_564,Accessories,220,N/A,Supplier_B
+565,Product_565,Furniture,$2252,Out of Stock,Supplier_B
+566,Product_566,Electronics,2232$,yes,Supplier_C
+567,Product_567,Accessories,2775,No,Supplier_D
+568,Product_568,Clothing,1483$,Yes,Supplier_B
+569,Product_569,Accessories,747,Yes,Supplier_B
+570,Product_570,Electronics,3267$,yes,Supplier_B
+571,Product_571,Accessories,$1335,yes,Supplier_C
+572,Product_572,Office,$3980,N/A,Supplier_B
+573,Product_573,Accessories,$3009,Available,Supplier_B
+574,Product_574,Accessories,3893$,N/A,Supplier_B
+575,Product_575,Office,$1240,Available,Supplier_D
+576,Product_576,Electronics,978,Out of Stock,Supplier_C
+577,Product_577,Clothing,4357$,Out of Stock,Supplier_D
+578,Product_578,Furniture,467$,Out of Stock,Supplier_A
+579,Product_579,Office,1117,Available,Supplier_A
+580,Product_580,Office,$1109,Out of Stock,Supplier_D
+581,Product_581,Clothing,4121,Out of Stock,Supplier_B
+582,Product_582,Electronics,$2717,Yes,Supplier_A
+583,Product_583,Furniture,3409$,Yes,Supplier_C
+584,Product_584,Accessories,$2202,N/A,Supplier_B
+585,Product_585,Furniture,4587$,yes,Supplier_A
+586,Product_586,Electronics,3151,yes,Supplier_A
+587,Product_587,Furniture,1141,N/A,Supplier_B
+588,Product_588,Office,$1508,Yes,Supplier_D
+589,Product_589,Office,1199$,N/A,Supplier_C
+590,Product_590,Furniture,4606,No,Supplier_A
+591,Product_591,Accessories,$653,No,Supplier_B
+592,Product_592,Clothing,1406,N/A,Supplier_D
+593,Product_593,Accessories,$4573,Available,Supplier_D
+594,Product_594,Clothing,1325$,Out of Stock,Supplier_C
+595,Product_595,Furniture,$2977,yes,Supplier_B
+596,Product_596,Accessories,744$,Available,Supplier_B
+597,Product_597,Furniture,324,Out of Stock,Supplier_C
+598,Product_598,Electronics,932,N/A,Supplier_D
+599,Product_599,Clothing,4759,yes,Supplier_A
+600,Product_600,Furniture,4003,yes,Supplier_D
+601,Product_601,Accessories,3091,N/A,Supplier_B
+602,Product_602,Office,$1618,Yes,Supplier_C
+603,Product_603,Clothing,4434,No,Supplier_A
+604,Product_604,Clothing,897$,Out of Stock,Supplier_B
+605,Product_605,Office,$4429,Yes,Supplier_A
+606,Product_606,Electronics,2654$,N/A,Supplier_B
+607,Product_607,Furniture,908,Available,Supplier_B
+608,Product_608,Office,3072,No,Supplier_C
+609,Product_609,Accessories,$4625,N/A,Supplier_A
+610,Product_610,Furniture,1370,Out of Stock,Supplier_B
+611,Product_611,Office,4050,No,Supplier_A
+612,Product_612,Clothing,$4361,Yes,Supplier_A
+613,Product_613,Accessories,3742$,No,Supplier_B
+614,Product_614,Furniture,$1900,Available,Supplier_D
+615,Product_615,Furniture,3452$,Available,Supplier_A
+616,Product_616,Accessories,2708$,yes,Supplier_B
+617,Product_617,Clothing,1625$,Available,Supplier_A
+618,Product_618,Accessories,$118,N/A,Supplier_B
+619,Product_619,Accessories,1392$,Available,Supplier_A
+620,Product_620,Furniture,4756$,No,Supplier_B
+621,Product_621,Electronics,$4448,No,Supplier_B
+622,Product_622,Office,502$,No,Supplier_D
+623,Product_623,Office,3766,Out of Stock,Supplier_C
+624,Product_624,Accessories,$3500,Available,Supplier_C
+625,Product_625,Clothing,1858$,No,Supplier_C
+626,Product_626,Accessories,2381$,yes,Supplier_D
+627,Product_627,Accessories,$2124,N/A,Supplier_B
+628,Product_628,Accessories,902$,Out of Stock,Supplier_C
+629,Product_629,Electronics,4781$,Available,Supplier_D
+630,Product_630,Furniture,$3434,Yes,Supplier_D
+631,Product_631,Office,2530,Yes,Supplier_B
+632,Product_632,Accessories,1868,Available,Supplier_A
+633,Product_633,Accessories,$4676,N/A,Supplier_C
+634,Product_634,Office,$4270,Available,Supplier_B
+635,Product_635,Accessories,2582$,Yes,Supplier_C
+636,Product_636,Clothing,$4091,Yes,Supplier_D
+637,Product_637,Office,$4798,N/A,Supplier_A
+638,Product_638,Office,4788$,No,Supplier_B
+639,Product_639,Electronics,3189,Out of Stock,Supplier_A
+640,Product_640,Furniture,$1909,Out of Stock,Supplier_B
+641,Product_641,Office,4717,No,Supplier_A
+642,Product_642,Electronics,$1048,Out of Stock,Supplier_D
+643,Product_643,Clothing,1303$,yes,Supplier_A
+644,Product_644,Electronics,1454,No,Supplier_B
+645,Product_645,Electronics,789$,yes,Supplier_A
+646,Product_646,Office,1414,No,Supplier_D
+647,Product_647,Electronics,640,Yes,Supplier_C
+648,Product_648,Clothing,$3137,N/A,Supplier_C
+649,Product_649,Accessories,$4986,Available,Supplier_C
+650,Product_650,Furniture,4420,N/A,Supplier_D
+651,Product_651,Electronics,$4430,Yes,Supplier_C
+652,Product_652,Clothing,3538$,No,Supplier_B
+653,Product_653,Furniture,$3666,N/A,Supplier_B
+654,Product_654,Clothing,2458$,Yes,Supplier_B
+655,Product_655,Accessories,$297,yes,Supplier_A
+656,Product_656,Clothing,$796,yes,Supplier_B
+657,Product_657,Clothing,2735$,No,Supplier_D
+658,Product_658,Accessories,2964,Yes,Supplier_C
+659,Product_659,Electronics,$1643,yes,Supplier_A
+660,Product_660,Clothing,4450$,Yes,Supplier_C
+661,Product_661,Office,$1895,Available,Supplier_C
+662,Product_662,Clothing,1955,N/A,Supplier_C
+663,Product_663,Electronics,$3223,No,Supplier_C
+664,Product_664,Office,2456,No,Supplier_A
+665,Product_665,Furniture,1197$,N/A,Supplier_D
+666,Product_666,Electronics,$1501,N/A,Supplier_C
+667,Product_667,Furniture,$553,yes,Supplier_A
+668,Product_668,Furniture,4373$,N/A,Supplier_B
+669,Product_669,Furniture,2839$,yes,Supplier_A
+670,Product_670,Electronics,2724,yes,Supplier_B
+671,Product_671,Furniture,4811,Available,Supplier_A
+672,Product_672,Office,4255$,No,Supplier_A
+673,Product_673,Electronics,289$,N/A,Supplier_D
+674,Product_674,Furniture,4983,Out of Stock,Supplier_D
+675,Product_675,Clothing,4259,N/A,Supplier_A
+676,Product_676,Office,3013,Available,Supplier_B
+677,Product_677,Furniture,2612$,N/A,Supplier_C
+678,Product_678,Furniture,$4693,No,Supplier_C
+679,Product_679,Accessories,2223,Out of Stock,Supplier_D
+680,Product_680,Electronics,$1924,Available,Supplier_B
+681,Product_681,Clothing,$4941,yes,Supplier_A
+682,Product_682,Furniture,2977,Out of Stock,Supplier_C
+683,Product_683,Furniture,$374,Available,Supplier_D
+684,Product_684,Electronics,$325,No,Supplier_C
+685,Product_685,Furniture,1838,No,Supplier_A
+686,Product_686,Furniture,2161,N/A,Supplier_A
+687,Product_687,Furniture,$3826,Available,Supplier_A
+688,Product_688,Clothing,$1247,N/A,Supplier_C
+689,Product_689,Clothing,3038$,No,Supplier_C
+690,Product_690,Accessories,$3641,N/A,Supplier_B
+691,Product_691,Electronics,4047,No,Supplier_D
+692,Product_692,Clothing,3719,Yes,Supplier_C
+693,Product_693,Office,4670$,yes,Supplier_C
+694,Product_694,Office,2967,N/A,Supplier_A
+695,Product_695,Electronics,4627,N/A,Supplier_B
+696,Product_696,Office,$899,Yes,Supplier_D
+697,Product_697,Electronics,$2661,Available,Supplier_C
+698,Product_698,Furniture,1235$,Yes,Supplier_D
+699,Product_699,Electronics,$543,yes,Supplier_C
+700,Product_700,Office,135$,Yes,Supplier_A
+701,Product_701,Clothing,$1812,Available,Supplier_B
+702,Product_702,Electronics,$4923,No,Supplier_C
+703,Product_703,Furniture,$2328,Yes,Supplier_A
+704,Product_704,Electronics,$4745,Yes,Supplier_B
+705,Product_705,Electronics,929,Yes,Supplier_D
+706,Product_706,Electronics,764,Available,Supplier_A
+707,Product_707,Clothing,4639,Yes,Supplier_D
+708,Product_708,Accessories,3778$,Available,Supplier_D
+709,Product_709,Clothing,$4853,N/A,Supplier_C
+710,Product_710,Furniture,1967$,N/A,Supplier_B
+711,Product_711,Accessories,$3824,No,Supplier_D
+712,Product_712,Accessories,2654$,Yes,Supplier_D
+713,Product_713,Office,4382,Yes,Supplier_D
+714,Product_714,Office,4949,yes,Supplier_D
+715,Product_715,Office,3161,Yes,Supplier_B
+716,Product_716,Clothing,2768$,N/A,Supplier_A
+717,Product_717,Clothing,$987,No,Supplier_D
+718,Product_718,Clothing,$144,yes,Supplier_C
+719,Product_719,Clothing,4228,No,Supplier_C
+720,Product_720,Office,1196,N/A,Supplier_B
+721,Product_721,Furniture,2712$,Available,Supplier_D
+722,Product_722,Furniture,829,N/A,Supplier_B
+723,Product_723,Electronics,869$,N/A,Supplier_B
+724,Product_724,Accessories,$1369,Out of Stock,Supplier_B
+725,Product_725,Electronics,903$,Out of Stock,Supplier_D
+726,Product_726,Furniture,$4954,Available,Supplier_A
+727,Product_727,Furniture,3940,Available,Supplier_A
+728,Product_728,Clothing,1167,Out of Stock,Supplier_D
+729,Product_729,Accessories,4027,No,Supplier_D
+730,Product_730,Office,$4982,N/A,Supplier_D
+731,Product_731,Furniture,$2193,N/A,Supplier_D
+732,Product_732,Furniture,1174$,No,Supplier_B
+733,Product_733,Accessories,3620,N/A,Supplier_C
+734,Product_734,Furniture,3807$,No,Supplier_A
+735,Product_735,Clothing,$3266,Yes,Supplier_C
+736,Product_736,Furniture,$2130,Out of Stock,Supplier_C
+737,Product_737,Clothing,2450$,Out of Stock,Supplier_B
+738,Product_738,Office,$944,yes,Supplier_B
+739,Product_739,Electronics,3540$,Available,Supplier_B
+740,Product_740,Electronics,$2050,Out of Stock,Supplier_A
+741,Product_741,Electronics,$1469,Out of Stock,Supplier_A
+742,Product_742,Office,$3346,Out of Stock,Supplier_C
+743,Product_743,Clothing,2854,N/A,Supplier_C
+744,Product_744,Furniture,370,Available,Supplier_A
+745,Product_745,Clothing,3314$,Yes,Supplier_D
+746,Product_746,Furniture,4127,No,Supplier_B
+747,Product_747,Accessories,$1019,Available,Supplier_C
+748,Product_748,Electronics,2243$,N/A,Supplier_A
+749,Product_749,Clothing,$4037,Out of Stock,Supplier_D
+750,Product_750,Furniture,3604,Out of Stock,Supplier_B
+751,Product_751,Office,$4829,Out of Stock,Supplier_B
+752,Product_752,Office,$760,Yes,Supplier_B
+753,Product_753,Accessories,509$,yes,Supplier_B
+754,Product_754,Accessories,1721$,Available,Supplier_D
+755,Product_755,Clothing,$2310,Available,Supplier_D
+756,Product_756,Accessories,2183,Available,Supplier_D
+757,Product_757,Accessories,$4796,N/A,Supplier_A
+758,Product_758,Furniture,769$,Available,Supplier_C
+759,Product_759,Office,$2537,Yes,Supplier_D
+760,Product_760,Accessories,4327$,Yes,Supplier_D
+761,Product_761,Office,$4446,yes,Supplier_D
+762,Product_762,Furniture,3419$,Out of Stock,Supplier_C
+763,Product_763,Electronics,$3010,No,Supplier_D
+764,Product_764,Clothing,1377$,Available,Supplier_A
+765,Product_765,Clothing,3649,No,Supplier_D
+766,Product_766,Office,$1007,yes,Supplier_A
+767,Product_767,Furniture,1604,N/A,Supplier_B
+768,Product_768,Electronics,4729$,N/A,Supplier_C
+769,Product_769,Clothing,$2970,Available,Supplier_B
+770,Product_770,Electronics,1330$,yes,Supplier_B
+771,Product_771,Office,1351$,Yes,Supplier_A
+772,Product_772,Accessories,2372$,No,Supplier_A
+773,Product_773,Accessories,2631,Available,Supplier_D
+774,Product_774,Furniture,$698,yes,Supplier_A
+775,Product_775,Clothing,$4401,yes,Supplier_D
+776,Product_776,Clothing,$2391,No,Supplier_A
+777,Product_777,Clothing,4229,yes,Supplier_C
+778,Product_778,Clothing,$4570,Out of Stock,Supplier_B
+779,Product_779,Accessories,2892$,No,Supplier_A
+780,Product_780,Clothing,1873,No,Supplier_D
+781,Product_781,Furniture,2425$,Available,Supplier_C
+782,Product_782,Clothing,4449,N/A,Supplier_C
+783,Product_783,Accessories,$1730,No,Supplier_D
+784,Product_784,Office,$317,N/A,Supplier_D
+785,Product_785,Furniture,926,Available,Supplier_D
+786,Product_786,Office,3459,N/A,Supplier_C
+787,Product_787,Furniture,972,No,Supplier_A
+788,Product_788,Clothing,$2076,N/A,Supplier_A
+789,Product_789,Office,712,No,Supplier_C
+790,Product_790,Office,4187$,yes,Supplier_B
+791,Product_791,Office,$3534,yes,Supplier_D
+792,Product_792,Furniture,2891$,yes,Supplier_B
+793,Product_793,Clothing,$870,Out of Stock,Supplier_C
+794,Product_794,Accessories,$3806,Available,Supplier_D
+795,Product_795,Accessories,$2695,Out of Stock,Supplier_D
+796,Product_796,Clothing,$2311,No,Supplier_A
+797,Product_797,Office,536,Out of Stock,Supplier_B
+798,Product_798,Furniture,799,Available,Supplier_D
+799,Product_799,Office,$1897,Out of Stock,Supplier_B
+800,Product_800,Office,2963$,N/A,Supplier_A
+801,Product_801,Accessories,3772,yes,Supplier_B
+802,Product_802,Accessories,4675$,No,Supplier_B
+803,Product_803,Clothing,3615$,Yes,Supplier_D
+804,Product_804,Accessories,3410$,Yes,Supplier_A
+805,Product_805,Office,$3974,yes,Supplier_C
+806,Product_806,Electronics,$3774,yes,Supplier_D
+807,Product_807,Electronics,3471,Yes,Supplier_C
+808,Product_808,Accessories,$4602,N/A,Supplier_C
+809,Product_809,Office,$3479,Yes,Supplier_A
+810,Product_810,Electronics,1656,Yes,Supplier_B
+811,Product_811,Clothing,4391$,Available,Supplier_D
+812,Product_812,Clothing,$4579,Yes,Supplier_A
+813,Product_813,Electronics,2052$,Out of Stock,Supplier_C
+814,Product_814,Accessories,2240$,Available,Supplier_D
+815,Product_815,Accessories,2251,No,Supplier_B
+816,Product_816,Office,2328,Out of Stock,Supplier_B
+817,Product_817,Electronics,2666$,Available,Supplier_C
+818,Product_818,Clothing,2507$,Yes,Supplier_A
+819,Product_819,Furniture,1125$,yes,Supplier_D
+820,Product_820,Office,4623$,No,Supplier_C
+821,Product_821,Electronics,3564$,N/A,Supplier_D
+822,Product_822,Office,3711$,N/A,Supplier_A
+823,Product_823,Furniture,2332,Available,Supplier_B
+824,Product_824,Clothing,$2224,No,Supplier_D
+825,Product_825,Furniture,4222,Out of Stock,Supplier_B
+826,Product_826,Clothing,2737$,No,Supplier_B
+827,Product_827,Furniture,1075$,No,Supplier_A
+828,Product_828,Clothing,4765,Yes,Supplier_A
+829,Product_829,Furniture,$2889,Yes,Supplier_D
+830,Product_830,Electronics,3146,yes,Supplier_D
+831,Product_831,Clothing,877,N/A,Supplier_D
+832,Product_832,Accessories,4360,Out of Stock,Supplier_D
+833,Product_833,Electronics,3375,Out of Stock,Supplier_D
+834,Product_834,Electronics,3031$,Available,Supplier_C
+835,Product_835,Furniture,4072,Available,Supplier_D
+836,Product_836,Electronics,841,yes,Supplier_A
+837,Product_837,Accessories,802,Out of Stock,Supplier_D
+838,Product_838,Accessories,2918$,No,Supplier_B
+839,Product_839,Electronics,2432,Out of Stock,Supplier_B
+840,Product_840,Office,2895$,Out of Stock,Supplier_A
+841,Product_841,Office,984$,N/A,Supplier_C
+842,Product_842,Office,1010$,No,Supplier_D
+843,Product_843,Office,$4693,No,Supplier_A
+844,Product_844,Accessories,2581$,No,Supplier_C
+845,Product_845,Electronics,$2156,N/A,Supplier_B
+846,Product_846,Clothing,2464$,Out of Stock,Supplier_D
+847,Product_847,Clothing,4489$,Out of Stock,Supplier_A
+848,Product_848,Electronics,2449,Out of Stock,Supplier_D
+849,Product_849,Accessories,2408,No,Supplier_D
+850,Product_850,Accessories,3498$,Out of Stock,Supplier_D
+851,Product_851,Electronics,$3521,Yes,Supplier_C
+852,Product_852,Electronics,220$,N/A,Supplier_C
+853,Product_853,Office,4452,Yes,Supplier_B
+854,Product_854,Electronics,$1283,yes,Supplier_C
+855,Product_855,Accessories,4516$,Out of Stock,Supplier_B
+856,Product_856,Furniture,$4273,N/A,Supplier_D
+857,Product_857,Electronics,$2012,Available,Supplier_D
+858,Product_858,Office,$269,N/A,Supplier_A
+859,Product_859,Electronics,$1009,Available,Supplier_B
+860,Product_860,Furniture,2219$,Yes,Supplier_C
+861,Product_861,Office,$4779,No,Supplier_C
+862,Product_862,Clothing,$4146,Yes,Supplier_D
+863,Product_863,Clothing,$553,N/A,Supplier_B
+864,Product_864,Furniture,2662,yes,Supplier_A
+865,Product_865,Electronics,1334,Out of Stock,Supplier_A
+866,Product_866,Furniture,$1514,Available,Supplier_A
+867,Product_867,Electronics,1803,Available,Supplier_C
+868,Product_868,Accessories,3463,No,Supplier_D
+869,Product_869,Electronics,140,No,Supplier_C
+870,Product_870,Clothing,3001$,No,Supplier_B
+871,Product_871,Clothing,2307$,Out of Stock,Supplier_C
+872,Product_872,Electronics,1747,No,Supplier_C
+873,Product_873,Furniture,765$,Yes,Supplier_B
+874,Product_874,Accessories,908$,N/A,Supplier_A
+875,Product_875,Office,$4821,No,Supplier_B
+876,Product_876,Office,1312,Yes,Supplier_B
+877,Product_877,Clothing,$4573,Available,Supplier_B
+878,Product_878,Office,$389,N/A,Supplier_C
+879,Product_879,Furniture,3490,Out of Stock,Supplier_D
+880,Product_880,Electronics,3803$,yes,Supplier_C
+881,Product_881,Electronics,2480$,No,Supplier_B
+882,Product_882,Office,282,No,Supplier_D
+883,Product_883,Furniture,3789$,Available,Supplier_A
+884,Product_884,Clothing,$643,Yes,Supplier_C
+885,Product_885,Office,$603,yes,Supplier_A
+886,Product_886,Furniture,4173,yes,Supplier_C
+887,Product_887,Accessories,$1563,Out of Stock,Supplier_B
+888,Product_888,Office,4193$,yes,Supplier_D
+889,Product_889,Electronics,$4288,Out of Stock,Supplier_C
+890,Product_890,Accessories,$1823,No,Supplier_D
+891,Product_891,Accessories,960$,Yes,Supplier_C
+892,Product_892,Furniture,$2013,No,Supplier_A
+893,Product_893,Electronics,1818$,No,Supplier_D
+894,Product_894,Electronics,4418,Yes,Supplier_C
+895,Product_895,Electronics,4008,yes,Supplier_B
+896,Product_896,Furniture,$2910,yes,Supplier_A
+897,Product_897,Office,3345$,yes,Supplier_B
+898,Product_898,Electronics,$1941,No,Supplier_D
+899,Product_899,Furniture,1306,Yes,Supplier_B
+900,Product_900,Furniture,$4133,No,Supplier_D
+901,Product_901,Electronics,$4102,No,Supplier_A
+902,Product_902,Furniture,3825$,N/A,Supplier_D
+903,Product_903,Clothing,2783,yes,Supplier_C
+904,Product_904,Electronics,2852$,N/A,Supplier_A
+905,Product_905,Office,$3620,yes,Supplier_C
+906,Product_906,Clothing,$3739,Yes,Supplier_C
+907,Product_907,Furniture,4460,Available,Supplier_A
+908,Product_908,Electronics,$4373,Yes,Supplier_D
+909,Product_909,Clothing,$4351,Available,Supplier_A
+910,Product_910,Accessories,$4122,N/A,Supplier_C
+911,Product_911,Electronics,2246,Yes,Supplier_B
+912,Product_912,Furniture,$430,Yes,Supplier_C
+913,Product_913,Clothing,1391$,N/A,Supplier_C
+914,Product_914,Furniture,$168,Available,Supplier_D
+915,Product_915,Clothing,$1774,Yes,Supplier_B
+916,Product_916,Clothing,4903$,Available,Supplier_B
+917,Product_917,Electronics,4482$,Out of Stock,Supplier_B
+918,Product_918,Accessories,$2340,Out of Stock,Supplier_D
+919,Product_919,Office,2323,Out of Stock,Supplier_D
+920,Product_920,Office,$3846,yes,Supplier_C
+921,Product_921,Electronics,1633,Out of Stock,Supplier_B
+922,Product_922,Accessories,3816,N/A,Supplier_C
+923,Product_923,Electronics,$4649,yes,Supplier_C
+924,Product_924,Clothing,$1778,Available,Supplier_A
+925,Product_925,Accessories,1806,Yes,Supplier_A
+926,Product_926,Clothing,$4945,Out of Stock,Supplier_D
+927,Product_927,Electronics,704$,Available,Supplier_D
+928,Product_928,Accessories,4538,N/A,Supplier_B
+929,Product_929,Accessories,4191,Available,Supplier_B
+930,Product_930,Office,2526,Out of Stock,Supplier_C
+931,Product_931,Office,$1155,Available,Supplier_A
+932,Product_932,Electronics,2586$,Yes,Supplier_B
+933,Product_933,Electronics,2086,Available,Supplier_C
+934,Product_934,Furniture,3928,Out of Stock,Supplier_A
+935,Product_935,Furniture,2169,yes,Supplier_A
+936,Product_936,Electronics,$276,yes,Supplier_D
+937,Product_937,Furniture,2551,yes,Supplier_B
+938,Product_938,Furniture,4535,yes,Supplier_D
+939,Product_939,Clothing,621,No,Supplier_A
+940,Product_940,Clothing,1353,Yes,Supplier_A
+941,Product_941,Accessories,2432$,Out of Stock,Supplier_D
+942,Product_942,Clothing,$2937,No,Supplier_B
+943,Product_943,Accessories,$3452,yes,Supplier_C
+944,Product_944,Electronics,2267$,No,Supplier_B
+945,Product_945,Accessories,$3263,Out of Stock,Supplier_A
+946,Product_946,Electronics,$328,No,Supplier_C
+947,Product_947,Electronics,738,Available,Supplier_B
+948,Product_948,Accessories,$641,yes,Supplier_B
+949,Product_949,Clothing,1800$,Available,Supplier_B
+950,Product_950,Clothing,$2567,Out of Stock,Supplier_A
+951,Product_951,Clothing,$4575,N/A,Supplier_B
+952,Product_952,Electronics,2233$,Yes,Supplier_C
+953,Product_953,Furniture,$1269,No,Supplier_B
+954,Product_954,Furniture,$4564,Available,Supplier_B
+955,Product_955,Clothing,187$,Out of Stock,Supplier_D
+956,Product_956,Office,3867,No,Supplier_D
+957,Product_957,Clothing,2074,Available,Supplier_C
+958,Product_958,Electronics,2394,yes,Supplier_D
+959,Product_959,Clothing,3696$,N/A,Supplier_A
+960,Product_960,Accessories,3715$,yes,Supplier_D
+961,Product_961,Office,4156,No,Supplier_C
+962,Product_962,Electronics,2151$,Available,Supplier_B
+963,Product_963,Electronics,2271,Out of Stock,Supplier_B
+964,Product_964,Furniture,1893,No,Supplier_A
+965,Product_965,Accessories,4887,yes,Supplier_C
+966,Product_966,Electronics,$3621,yes,Supplier_D
+967,Product_967,Clothing,2367,Available,Supplier_D
+968,Product_968,Furniture,$2417,Yes,Supplier_B
+969,Product_969,Accessories,2656,Available,Supplier_A
+970,Product_970,Furniture,4355,Out of Stock,Supplier_C
+971,Product_971,Furniture,4750,Yes,Supplier_C
+972,Product_972,Furniture,$507,Yes,Supplier_B
+973,Product_973,Clothing,3331,N/A,Supplier_A
+974,Product_974,Accessories,3822,Out of Stock,Supplier_A
+975,Product_975,Electronics,4201$,Out of Stock,Supplier_D
+976,Product_976,Electronics,4824$,Available,Supplier_C
+977,Product_977,Furniture,1349,Available,Supplier_B
+978,Product_978,Electronics,$1272,yes,Supplier_C
+979,Product_979,Office,$135,Available,Supplier_C
+980,Product_980,Clothing,$1572,Available,Supplier_A
+981,Product_981,Accessories,1578$,No,Supplier_C
+982,Product_982,Furniture,4854$,yes,Supplier_C
+983,Product_983,Clothing,$1784,N/A,Supplier_D
+984,Product_984,Clothing,2662,Available,Supplier_C
+985,Product_985,Furniture,2139,Available,Supplier_B
+986,Product_986,Electronics,2473,Yes,Supplier_A
+987,Product_987,Office,4323,No,Supplier_B
+988,Product_988,Clothing,2534,Available,Supplier_C
+989,Product_989,Clothing,2051$,Available,Supplier_C
+990,Product_990,Furniture,1582,Out of Stock,Supplier_B
+991,Product_991,Electronics,$1772,yes,Supplier_D
+992,Product_992,Clothing,4650$,N/A,Supplier_B
+993,Product_993,Electronics,$101,No,Supplier_C
+994,Product_994,Electronics,4884$,N/A,Supplier_C
+995,Product_995,Office,3594,yes,Supplier_A
+996,Product_996,Electronics,636,Out of Stock,Supplier_B
+997,Product_997,Office,4571,N/A,Supplier_B
+998,Product_998,Clothing,875,Available,Supplier_A
+999,Product_999,Clothing,$3606,Available,Supplier_C
+1000,Product_1000,Clothing,3041,Yes,Supplier_D
+1001,Product_1001,Accessories,$260,yes,Supplier_D
+1002,Product_1002,Office,$2733,No,Supplier_C
+1003,Product_1003,Office,3974$,N/A,Supplier_B
+1004,Product_1004,Office,2922,Yes,Supplier_A
+1005,Product_1005,Accessories,$3130,yes,Supplier_A
+1006,Product_1006,Clothing,3990$,N/A,Supplier_C
+1007,Product_1007,Office,$736,Available,Supplier_B
+1008,Product_1008,Furniture,3117$,Available,Supplier_A
+1009,Product_1009,Office,$2401,yes,Supplier_D
+1010,Product_1010,Clothing,1267,No,Supplier_B
+1011,Product_1011,Office,646,yes,Supplier_D
+1012,Product_1012,Office,2558$,N/A,Supplier_B
+1013,Product_1013,Electronics,3174$,Out of Stock,Supplier_B
+1014,Product_1014,Office,$3853,N/A,Supplier_B
+1015,Product_1015,Clothing,3404,Available,Supplier_D
+1016,Product_1016,Clothing,$4611,Out of Stock,Supplier_B
+1017,Product_1017,Office,$4159,Out of Stock,Supplier_D
+1018,Product_1018,Accessories,4515,Yes,Supplier_D
+1019,Product_1019,Electronics,1810$,N/A,Supplier_D
+1020,Product_1020,Office,635$,No,Supplier_C
+1021,Product_1021,Furniture,2893$,Yes,Supplier_A
+1022,Product_1022,Furniture,2017,No,Supplier_D
+1023,Product_1023,Clothing,$1675,N/A,Supplier_D
+1024,Product_1024,Electronics,3014$,No,Supplier_C
+1025,Product_1025,Office,4098,N/A,Supplier_C
+1026,Product_1026,Furniture,$518,N/A,Supplier_C
+1027,Product_1027,Furniture,3990$,No,Supplier_C
+1028,Product_1028,Clothing,4683,Out of Stock,Supplier_A
+1029,Product_1029,Furniture,3237$,Available,Supplier_C
+1030,Product_1030,Clothing,4028$,N/A,Supplier_D
+1031,Product_1031,Furniture,115,Out of Stock,Supplier_A
+1032,Product_1032,Clothing,$3589,No,Supplier_D
+1033,Product_1033,Furniture,3894,Out of Stock,Supplier_D
+1034,Product_1034,Accessories,4552,yes,Supplier_D
+1035,Product_1035,Electronics,2203,N/A,Supplier_D
+1036,Product_1036,Furniture,3471,yes,Supplier_B
+1037,Product_1037,Furniture,$1485,No,Supplier_C
+1038,Product_1038,Accessories,4753,Available,Supplier_D
+1039,Product_1039,Clothing,174$,Available,Supplier_B
+1040,Product_1040,Clothing,3245$,No,Supplier_A
+1041,Product_1041,Office,2411$,yes,Supplier_B
+1042,Product_1042,Office,$2318,N/A,Supplier_A
+1043,Product_1043,Furniture,1564$,Available,Supplier_D
+1044,Product_1044,Office,4396,N/A,Supplier_C
+1045,Product_1045,Accessories,600$,Available,Supplier_D
+1046,Product_1046,Clothing,2288$,yes,Supplier_D
+1047,Product_1047,Electronics,3625$,N/A,Supplier_D
+1048,Product_1048,Accessories,3815$,Available,Supplier_B
+1049,Product_1049,Clothing,$3071,No,Supplier_B
+1050,Product_1050,Electronics,$1637,Yes,Supplier_C
+1051,Product_1051,Furniture,470$,yes,Supplier_B
+1052,Product_1052,Office,2654$,Available,Supplier_C
+1053,Product_1053,Electronics,$106,N/A,Supplier_A
+1054,Product_1054,Furniture,1186,Available,Supplier_C
+1055,Product_1055,Office,$1315,No,Supplier_A
+1056,Product_1056,Electronics,577$,yes,Supplier_A
+1057,Product_1057,Furniture,1814$,Available,Supplier_C
+1058,Product_1058,Accessories,1934,N/A,Supplier_C
+1059,Product_1059,Electronics,$1995,No,Supplier_A
+1060,Product_1060,Clothing,$1472,Available,Supplier_B
+1061,Product_1061,Electronics,736,Yes,Supplier_A
+1062,Product_1062,Accessories,$137,Available,Supplier_B
+1063,Product_1063,Accessories,2637$,Available,Supplier_A
+1064,Product_1064,Office,3355,Yes,Supplier_A
+1065,Product_1065,Furniture,3290$,N/A,Supplier_B
+1066,Product_1066,Furniture,2070$,Available,Supplier_D
+1067,Product_1067,Furniture,859,Available,Supplier_D
+1068,Product_1068,Office,1784$,Out of Stock,Supplier_D
+1069,Product_1069,Electronics,$828,No,Supplier_A
+1070,Product_1070,Clothing,$2198,Yes,Supplier_B
+1071,Product_1071,Accessories,3264,yes,Supplier_C
+1072,Product_1072,Clothing,2104,Yes,Supplier_B
+1073,Product_1073,Electronics,3127,Available,Supplier_B
+1074,Product_1074,Electronics,3849$,yes,Supplier_D
+1075,Product_1075,Furniture,$900,Available,Supplier_B
+1076,Product_1076,Clothing,4306$,Yes,Supplier_A
+1077,Product_1077,Furniture,$2301,yes,Supplier_B
+1078,Product_1078,Clothing,140,Yes,Supplier_B
+1079,Product_1079,Furniture,3387,Available,Supplier_C
+1080,Product_1080,Office,1380,No,Supplier_D
+1081,Product_1081,Office,4465$,yes,Supplier_D
+1082,Product_1082,Accessories,$673,Available,Supplier_B
+1083,Product_1083,Furniture,4017$,No,Supplier_C
+1084,Product_1084,Furniture,3755$,Yes,Supplier_C
+1085,Product_1085,Furniture,1887$,yes,Supplier_C
+1086,Product_1086,Clothing,$2347,Available,Supplier_A
+1087,Product_1087,Electronics,4334,N/A,Supplier_A
+1088,Product_1088,Clothing,2381,yes,Supplier_A
+1089,Product_1089,Office,235,Available,Supplier_C
+1090,Product_1090,Furniture,3072,No,Supplier_D
+1091,Product_1091,Clothing,339,yes,Supplier_C
+1092,Product_1092,Furniture,$2524,Available,Supplier_B
+1093,Product_1093,Electronics,$3332,N/A,Supplier_B
+1094,Product_1094,Office,$3547,Yes,Supplier_B
+1095,Product_1095,Furniture,4365$,yes,Supplier_C
+1096,Product_1096,Office,$3316,Yes,Supplier_C
+1097,Product_1097,Office,$4106,Available,Supplier_D
+1098,Product_1098,Accessories,$1225,N/A,Supplier_C
+1099,Product_1099,Office,960$,yes,Supplier_C
+1100,Product_1100,Clothing,3113,Available,Supplier_B
+1101,Product_1101,Furniture,4634,Available,Supplier_A
+1102,Product_1102,Furniture,316,N/A,Supplier_C
+1103,Product_1103,Accessories,$3331,N/A,Supplier_D
+1104,Product_1104,Clothing,1125$,N/A,Supplier_C
+1105,Product_1105,Clothing,3137$,N/A,Supplier_B
+1106,Product_1106,Office,2557,Out of Stock,Supplier_B
+1107,Product_1107,Electronics,2663$,Out of Stock,Supplier_B
+1108,Product_1108,Clothing,$2724,No,Supplier_C
+1109,Product_1109,Electronics,$2965,Out of Stock,Supplier_C
+1110,Product_1110,Accessories,3901$,yes,Supplier_A
+1111,Product_1111,Clothing,702$,Available,Supplier_D
+1112,Product_1112,Electronics,2348,Out of Stock,Supplier_C
+1113,Product_1113,Accessories,1125,Yes,Supplier_C
+1114,Product_1114,Furniture,$3436,yes,Supplier_B
+1115,Product_1115,Clothing,1241$,Yes,Supplier_C
+1116,Product_1116,Furniture,4361,yes,Supplier_B
+1117,Product_1117,Accessories,$1042,Out of Stock,Supplier_C
+1118,Product_1118,Clothing,3736,Yes,Supplier_D
+1119,Product_1119,Clothing,2064$,Yes,Supplier_B
+1120,Product_1120,Furniture,983$,Out of Stock,Supplier_B
+1121,Product_1121,Furniture,1885,Out of Stock,Supplier_B
+1122,Product_1122,Accessories,$4240,yes,Supplier_D
+1123,Product_1123,Clothing,2130$,Available,Supplier_A
+1124,Product_1124,Electronics,1561,yes,Supplier_B
+1125,Product_1125,Office,2135,Yes,Supplier_B
+1126,Product_1126,Furniture,4903$,yes,Supplier_A
+1127,Product_1127,Accessories,879$,Yes,Supplier_B
+1128,Product_1128,Accessories,1224,Yes,Supplier_D
+1129,Product_1129,Electronics,4061$,Yes,Supplier_D
+1130,Product_1130,Furniture,4369,Yes,Supplier_D
+1131,Product_1131,Electronics,3573$,N/A,Supplier_B
+1132,Product_1132,Clothing,549$,N/A,Supplier_A
+1133,Product_1133,Furniture,4742$,Available,Supplier_D
+1134,Product_1134,Electronics,333,Out of Stock,Supplier_A
+1135,Product_1135,Clothing,4314,No,Supplier_C
+1136,Product_1136,Accessories,$160,yes,Supplier_A
+1137,Product_1137,Office,1588,yes,Supplier_C
+1138,Product_1138,Accessories,320,N/A,Supplier_C
+1139,Product_1139,Office,1032$,Yes,Supplier_A
+1140,Product_1140,Office,$1027,N/A,Supplier_A
+1141,Product_1141,Electronics,3321,No,Supplier_C
+1142,Product_1142,Office,634,Yes,Supplier_B
+1143,Product_1143,Furniture,487,Available,Supplier_C
+1144,Product_1144,Electronics,2502,Available,Supplier_D
+1145,Product_1145,Electronics,2072,No,Supplier_D
+1146,Product_1146,Accessories,1194$,yes,Supplier_D
+1147,Product_1147,Office,4813$,Yes,Supplier_A
+1148,Product_1148,Electronics,3322,Yes,Supplier_C
+1149,Product_1149,Accessories,2951$,Yes,Supplier_C
+1150,Product_1150,Electronics,2381,Available,Supplier_C
+1151,Product_1151,Accessories,1698,N/A,Supplier_A
+1152,Product_1152,Clothing,$4057,Out of Stock,Supplier_A
+1153,Product_1153,Accessories,4844$,No,Supplier_C
+1154,Product_1154,Clothing,4572$,Out of Stock,Supplier_C
+1155,Product_1155,Office,$4120,yes,Supplier_A
+1156,Product_1156,Office,$1665,Available,Supplier_D
+1157,Product_1157,Accessories,4991,Yes,Supplier_A
+1158,Product_1158,Electronics,$4381,N/A,Supplier_D
+1159,Product_1159,Clothing,$397,N/A,Supplier_B
+1160,Product_1160,Office,$3877,yes,Supplier_D
+1161,Product_1161,Office,2469$,Out of Stock,Supplier_C
+1162,Product_1162,Electronics,$3086,yes,Supplier_D
+1163,Product_1163,Accessories,4161$,yes,Supplier_B
+1164,Product_1164,Clothing,180$,No,Supplier_D
+1165,Product_1165,Accessories,3212,Out of Stock,Supplier_D
+1166,Product_1166,Office,$3783,Out of Stock,Supplier_C
+1167,Product_1167,Office,268,Available,Supplier_A
+1168,Product_1168,Furniture,1612,No,Supplier_B
+1169,Product_1169,Clothing,282,No,Supplier_C
+1170,Product_1170,Electronics,1141,yes,Supplier_A
+1171,Product_1171,Office,3462,Yes,Supplier_D
+1172,Product_1172,Clothing,1642,Yes,Supplier_B
+1173,Product_1173,Electronics,$845,Out of Stock,Supplier_C
+1174,Product_1174,Furniture,2115$,Yes,Supplier_D
+1175,Product_1175,Furniture,2931$,Yes,Supplier_D
+1176,Product_1176,Office,2799$,yes,Supplier_C
+1177,Product_1177,Electronics,3429$,No,Supplier_C
+1178,Product_1178,Office,1097$,Out of Stock,Supplier_B
+1179,Product_1179,Accessories,$4229,No,Supplier_C
+1180,Product_1180,Office,$1068,yes,Supplier_A
+1181,Product_1181,Clothing,2580$,N/A,Supplier_B
+1182,Product_1182,Electronics,1257$,Available,Supplier_A
+1183,Product_1183,Electronics,$4865,No,Supplier_C
+1184,Product_1184,Electronics,980$,No,Supplier_C
+1185,Product_1185,Office,537$,No,Supplier_A
+1186,Product_1186,Accessories,3719$,Yes,Supplier_B
+1187,Product_1187,Electronics,$1482,yes,Supplier_D
+1188,Product_1188,Electronics,177,yes,Supplier_A
+1189,Product_1189,Clothing,151$,Yes,Supplier_A
+1190,Product_1190,Office,1591,Available,Supplier_A
+1191,Product_1191,Accessories,4283,Yes,Supplier_D
+1192,Product_1192,Electronics,806,No,Supplier_C
+1193,Product_1193,Accessories,2259,N/A,Supplier_D
+1194,Product_1194,Furniture,1362$,N/A,Supplier_C
+1195,Product_1195,Accessories,4379$,Available,Supplier_B
+1196,Product_1196,Electronics,$851,No,Supplier_B
+1197,Product_1197,Accessories,1893$,No,Supplier_C
+1198,Product_1198,Office,1433$,Yes,Supplier_B
+1199,Product_1199,Office,1469,No,Supplier_C
+1200,Product_1200,Electronics,3624,Available,Supplier_B
